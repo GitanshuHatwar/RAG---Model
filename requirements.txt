@@ -8,6 +8,8 @@ altair==4
 tiktoken==0.4.0
 # uncomment to use huggingface llms
 # huggingface-hub==0.14.1
+pip install streamlit PyPDF2 langchain faiss-cpu google-generativeai python-dotenv
+
 
 # uncomment to use instructor embeddings
 # InstructorEmbedding==1.0.1
